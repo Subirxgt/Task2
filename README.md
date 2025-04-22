@@ -7,9 +7,9 @@
     🛍️ Key Metrics
   </h2>
   <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
-    <li style="margin: 8px 0;">Total MRP of Items: <strong>$4500</strong></li>
-    <li style="margin: 8px 0;">Total Weight of Items: <strong>350 kg</strong></li>
-    <li style="margin: 8px 0;">Total Outlets: <strong>12</strong></li>
+    <li style="margin: 8px 0;">Total MRP of Items: <strong>$810K</strong></li>
+    <li style="margin: 8px 0;">Total Weight of Items: <strong>60K kg</strong></li>
+    <li style="margin: 8px 0;">Total Outlets: <strong>11M</strong></li>
   </ul>
 </div>
 
