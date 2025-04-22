@@ -1,5 +1,5 @@
 <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #0066cc; padding: 20px 0; text-align: center;">
-  📊 Food Outlet Sales Data Visualization
+  📊 Data Visualization and Storytelling Report
 </h1>
 
 <div style="background: #ffffff; padding: 20px; margin-top: 20px; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); max-width: 800px; margin-left: auto; margin-right: auto;">
